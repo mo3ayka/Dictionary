@@ -31,7 +31,7 @@ Pen Ghilardini Rockwell 38
 Bern Aizikov Rockwell 20  
 Sela Farrier Amazon 47  
 
-# output
+# output //sort by key
 //AverageAgeForEachCompany  
 The average age for company Amazon is 37  
 The average age for company Galaxy is 19  
